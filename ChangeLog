@@ -1,0 +1,12 @@
+v1.0	Initial project outline	Defined problem, platform, and high-level functionality.
+v1.1	Added wireframes and design specifics	Detailed wireframes for login, dashboard, employee schedules, and weekly view of shifts.
+v2.0	Platform change from React/Node.js to Flask and SQLite	Updated backend to Flask for simplicity and scalability. Switched database to SQLite for lightweight storage and easier setup.
+v2.1	Simplified mobile interface to HTML and CSS	Focused on implementing core functionality using Flask, HTML, and CSS instead of complex frameworks.
+v3.0	Backend scheduling functionality implemented	Added Flask routes to handle employee management, shift assignment, and schedule viewing.
+v3.1	Weekly scheduling feature added	Introduced the ability to assign shifts for specific days (Monday through Sunday) and view weekly schedules.
+v3.2	Bug fixes and database optimization	- Fixed Flask crashes due to empty schedules.
+- Improved database table design to include day-of-week for shifts.
+v3.3	Enhanced user interface	Created dynamic HTML templates (index.html, employee.html, add_shift.html, weekly_schedule.html) for better usability.
+v3.4	Deployment preparation and GitHub integration	Uploaded project to GitHub with folder structure, README.md, and .gitignore. Added requirements.txt.
+v4.0	Debugging and .exe support	Implemented error handling in app.py to prevent crashes. Used webbrowser to auto-open the app in a browser when launched.
+v4.1	Finalized project version and added documentation	Created a comprehensive CHANGELOG.md file and updated README.md to include detailed setup and usage instructions.
