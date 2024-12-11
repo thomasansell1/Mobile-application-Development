@@ -10,3 +10,4 @@ v3.3	Enhanced user interface	Created dynamic HTML templates (index.html, employe
 v3.4	Deployment preparation and GitHub integration	Uploaded project to GitHub with folder structure, README.md, and .gitignore. Added requirements.txt.
 v4.0	Debugging and .exe support	Implemented error handling in app.py to prevent crashes. Used webbrowser to auto-open the app in a browser when launched.
 v4.1	Finalized project version and added documentation	Created a comprehensive CHANGELOG.md file and updated README.md to include detailed setup and usage instructions.
+v5 Updated and finalized the CHANGELOG.md file and updated the README.md file for the final formal report 
